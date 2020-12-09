@@ -1,0 +1,7 @@
+site_name: U.S. Government Final Project
+
+nav:
+  - "Main Page": index.md
+  - "World War II": ww2.md
+  - "The Cold War": coldwar.md
+  - "The Current War on Terror": post911.md
