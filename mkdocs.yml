@@ -5,3 +5,12 @@ nav:
   - "World War II": ww2.md
   - "The Cold War": coldwar.md
   - "The Current War on Terror": post911.md
+
+extra_css:
+  - ./stylesheets/extra.css
+
+theme:
+  name: material
+  palette:
+    scheme: default
+  navigation_depth: 3
