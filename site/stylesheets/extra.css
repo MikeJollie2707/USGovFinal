@@ -1,0 +1,12 @@
+:root {
+    /*--md-default-bg-color: #E0D3AF;*/
+    
+    --md-primary-fg-color: #CA6F1E;
+    /*--md-primary-fg-color: #F8C471;*/
+}
+
+body {
+    background-image: url("https://www.myfreetextures.com/wp-content/uploads/2011/06/another-rough-old-and-worn-parchment-paper.jpg");
+    background-attachment: fixed;
+    background-position: center;
+}

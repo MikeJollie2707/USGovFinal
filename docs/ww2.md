@@ -28,9 +28,10 @@ However, it's not the really main cause for the conflict to happen. In late Augu
 
 After Poland, Germany just *swept* through Europe ("Blitzkrieg"), forcing Britain and France to back up. To make things worse, in ***Italy***, a new fascist dictator ***Benito Mussolini*** formed an alliance with Hitler, and declared war against France and Britain.
 
-<p align = "center">
+<figure align = "center">
     <img src = "https://encyclopedia.ushmm.org/images/thumb/6b473ced-71b7-474b-9519-969ed787dda8.jpg.pagespeed.ce.HV1V5b7BX5.jpg">
-</p>
+    <figcaption><i>Germany's soldiers marching</i></figcaption>
+</figure>
 
 ### The Battle of Britain (Sep 1940 - May 1941)
 
@@ -38,9 +39,10 @@ Eventually, only Britain remained, with the only reason was the English Channel 
 
 It was so WRONG. The Prime Minister of Britain at the time, ***Winston Churchill*** was determined to defend Britain at all cost, and with his speech, the morale of British increased. Eventually, the air force of Britain managed to push back the air force of Germany, forcing Hitler to postpone Britain invasion. This is referred to as the **battle of Britain**, which considered to be a turning point in WW2, because it's the first time Germany retreated.
 
-<p align = "center">
-    <img src = "https://scitechdaily.com/images/Battle-of-Britain-scaled.jpg">
-</p>
+<figure align = "center">
+    <img src = "https://media.iwm.org.uk/ciim5/37/291/super_000000.jpg">
+    <figcaption><i>Hawker Hurricanes of No. 85 Squadron, Royal Air Force</i></figcaption>
+</figure>
 
 ### Invading Soviet Union (June 1941)
 
@@ -56,9 +58,10 @@ It did caught the American off guard, which killed more than 2300 American troop
 
 In June 1942, America successfully won the **Battle of Midway**, which is a huge turning point in the Pacific, because from that point on, Japan is in a defensive move.
 
-<p align = "center">
+<figure align = "center">
     <img src = "https://cdn.britannica.com/s:800x450,c:crop/19/192919-138-6154BF1A/infographic-attack-Pearl-Harbor-December-7-1941.jpg">
-</p>
+    <figcaption><i>Pearl Harbor during the attack</i></figcaption>
+</figure>
 
 ### The Allies Strike Back (1943 - May 1945)
 
@@ -72,9 +75,10 @@ Once the Allies done with Italy and Germany, only Japan remained. Through captur
 
 Due to American casualties after *Battle of Iwo Jima* and *Battle of Okinowa*, the President of the United States authorized the use of atomic bomb on Hiroshima and Nagasaki of Japan. The impact was huge. Japan admittedly surrendered.
 
-<p align = "center">
+<figure align = "center">
     <img src = "https://archive.ceylontoday.lk/site-api/uploads/FeatureHeader/5d4e7f0a9a0a3_33454.jpg">
-</p>
+    <figcaption><i>The atomic explosion in Hiroshima</i></figcaption>
+</figure>
 
 ## Timeline
 
