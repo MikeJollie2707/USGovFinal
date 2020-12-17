@@ -1,6 +1,6 @@
 # Main Page
 
-Welcome to this page, if you happen to ever come across that is. Although this page is hosted on github, this page has nothing to do with code, and is only served for a student's project, because he's too lazy messing with google site, and weebly isn't that good to separate headings.
+Welcome to this page, if you happen to ever come across that is. Although this page is hosted on github, this page has nothing to do with code, and is only served for a student's project, because he's too lazy messing with google site, and weebly isn't that good to separate headings. Using markdown and mkdocs, it is simple enough to make things work with only the keyboard.
 
 Anyway, in short, this is a very simple webpage that will contains researched information about the three big war throughout the history, which are the following:
 

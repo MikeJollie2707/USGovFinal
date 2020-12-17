@@ -4,16 +4,17 @@ The Cold War is not like a typical war. It does not have any fights, nor any dea
 
 The "war" lasted from 1947 to 1991. Although it increases the tension of a possible WW3, it also pushes both sides with major achievements in space and science.
 
-*Note: There are several arguments on when the war started, but to keep it simplified, we start with WW2 period.*
+*Note 1: There are several arguments on when the war started, but to keep it simplified, we start with WW2 period.*
+
 *Note 2: To make life easy, whenever I refer to the Blue countries, it usually means the US and Great Britain, while the Red country is the Soviet Union.*
+
+<figure align = "center">
+    <img src = "https://knowledge.wharton.upenn.edu/wp-content/uploads/2018/08/080618_uschina_fistflags.jpg">
+</figure>
 
 ## What happened?
 
-### Context
-
-Let's recall a bit about the Soviet Union. They followed the ideology of **communism**, which is basically the work from everyone will be shared equally, not based on their contribution. During the time around 1924, the Soviet Union is dictated under ***Joseph Stalin*** rule. The importance here is because Joseph Stalin is a dictator, the world view *communism as a threat to democracy*.
-
-### After WW2
+Let's recall a bit about the Soviet Union. They followed the ideology of __communism__, which is basically the work from everyone will be shared equally, not based on their contribution. During the time around 1924, the Soviet Union is dictated under ***Joseph Stalin*** rule. The importance here is because Joseph Stalin is a dictator, the world view *communism as a threat to democracy*.
 
 During WW2, the United States was wary of Soviet communism and concerned about Joseph's tyrannical rule. The Soviets were also pissed because America didn't treat them as an international country, and also because the US didn't join the war earlier, their country suffered millions of deaths. So from the start, **the US and the Soviet didn't like each other**, but they formed an alliance anyway to stop Germany.
 
@@ -22,6 +23,8 @@ After defeating Germany, the Allies started to decide which country in Europe th
 Due to the USSR's expansion to the Europe after the war, **the US feared they would take over the world**. While the USSR was pissed because they thought the US was trying to stop them from forming relationships worldwide and recovering from war.
 
 On March 5, 1946, ***Winston Churchill*** delivered the **Iron Curtain speech**, with the purpose of forming a close relationship with the US, but also warning about the expansion of the Soviets. It essentially considered a curtain in Europe, and the second part of Europe and East Germany belongs to communism. Of course, the speech was well-received by the US (not the good relationship though, the one with the curtain ._.), and Stalin didn't like the speech.
+
+## How the "war" happened?
 
 ### The Containment
 
@@ -39,6 +42,10 @@ In response, the Blue countries and France setup a **Berlin Airlift**. If the Be
 
 Stalin eventually removed the blockade, but it was **the first conflict in the Cold War**.
 
+<figure align = "center">
+    <img src = "https://www.trumanlibrary.gov/public/blockaid-of-berlin.jpg">
+</figure>
+
 ### The Bomb, again
 
 A bit more subtle method to sort of "threaten" the Soviet Union from America is **to build more armies**. After the atomic bomb, America gotta be the last country you want to mess with. Thus, America joins with other Western Europe countries to form **NATO** (or *North Atlantic Treaty Organization*) in 1949 to essentially say "if the Soviet mess with one of us, they're messing with ALL of us".
@@ -46,6 +53,11 @@ A bit more subtle method to sort of "threaten" the Soviet Union from America is 
 You think the Soviet is not gonna mess with them? NO. Well, they indirectly mess with them by **successfully launch an atomic bomb**. Now if your enemy have a similar weapon as yours, what are you gonna do to defend? Obviously by **having even MORE weapons than them**. So both the US and the Soviet Union involves in an **arms race**. The world is not even in war, but the tension between the two countries make it sounds like if one side pops, *the world will explode*.
 
 In 1955, the USSR essentially creates a group that's like NATO, called the **Warsaw Pact** to protect its countries from the US.
+
+<figure align = "center">
+    <img src = "https://i.pinimg.com/originals/58/16/79/58167968e4275a6f9c76af169d4262b9.jpg">
+    <figcaption><i>The Arms race</i></figcaption>
+</figure>
 
 ### People like freedom
 
@@ -55,15 +67,25 @@ Of course, the Soviet didn't want that to happen. **After protests in Hungary, t
 
 During that period, *East Berlin also wanted to go to West Berlin*. So the USSR built a wall around West Berlin, usually referred as the **Berlin Wall**, which is literally a long wall with watch towers to kill whoever try to pass the wall.
 
+<figure align = "center">
+    <img src = "https://news.usc.edu/files/2014/12/Berlin-Wall-1961.jpg">
+    <figcaption><i>The Berlin Wall under construction</i></figcaption>
+</figure>
+
 ### Cuban Missile Crisis (1962)
 
-Due to both superpowers keep developing weapons, they now have **ICBM**, which stands for *InterContinental Ballistic Missiles*. Basically they have a missile that can shoot across countries and have a specific target. The USSR secretly installed them in Cuba to launch to the US. In return, ***Fidel Castro***, leader of Cuba, asked the Soviet for protection from the US, because he had the same ideology.
+Due to both superpowers keep developing weapons, they now have __ICBM__, which stands for *InterContinental Ballistic Missiles*. Basically they have a missile that can shoot across countries and have a specific target. The USSR secretly installed them in Cuba to launch to the US. In return, ***Fidel Castro***, leader of Cuba, asked the Soviet for protection from the US, because he had the same ideology.
 
 ***John F. Kennedy***, the president of the United States, issued a blockade to Cuba while a ship was travelling to Cuba. A friendly reminder that both nations had developed a tons of weapons to the point that a small conflict can start an atomic war. It luckily returned, but it didn't solve the missile problem. Eventually, JFK and ***Nikita Khrushchev*** agreed to remove the missiles in Cuba, in exchange to remove the missiles in Turkey.
 
 ### Space
 
 The two superpowers didn't just have a race on weapons. **They also had a race to space**. The Soviet Union successfully launched the Sputnik, the *first man-made satellite into space*. The American didn't like that, and the Soviet Union casually launched the *first man into space* on April 1961. Americans didn't like that at all, so besides launching the first American into space, they also *successfully step on the moon for the first time* (yes, *Neil Armstrong*) in 1969, effectively won the space race.
+
+<figure align = "center">
+    <img src = "https://www.history.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTU3ODc5MDg2Njk5MDYzMDA3/astronaut-aldrin-and-american-flag-on-the-moon-2.jpg">
+    <figcaption><i>American Astronauts on the moon during the space race</i></figcaption>
+</figure>
 
 ### SALTy
 
@@ -79,11 +101,21 @@ These policies essentially **weakened the dictatorship** all previous USSR leade
 
 Finally, on November 1989, the Berlin Wall - the most visible symbol of the Cold War - had finally teared down. By 1991, the **Soviet Union fallen apart, putting an end to the Cold War**.
 
+<figure align = "center">
+    <img src = "https://cdn.cnn.com/cnnnext/dam/assets/191107180351-berlin-wall-falling.jpg">
+    <figcaption><i>The Fall of the Berlin Wall</i></figcaption>
+</figure>
+
 ### Affect on people
 
 The Cold War affects everyone in the world, including the Americans themselves. At around 1950s, a hysteria rose that the evil communism had entered America. This caused people to constantly anxious and targeting other people of being Red. This is called the **Red Scare**, and we sometimes hear the word *McCarthyism*, because it talks about the baseless accusation of some government officials being Red.
 
 Not only the Red Scare, the American and generally people around the world fear of a nuclear war. This is at stake during the Cuba Missile Crisis.
+
+<figure align = "center">
+    <img src = "https://daily.jstor.org/wp-content/uploads/2017/12/america_under_communism_1050x700.jpg">
+    <figcaption><i>The Red Scare</i></figcaption>
+</figure>
 
 ## Meanwhile, in Asia...
 
@@ -104,5 +136,10 @@ The problem started from France when they invaded Vietnam. After WW2, the **Nort
 After driving France off the country in 1954, the **Geneva conference** temporarily divided the country into two parts along the 17th parallel. It seek for reunification in 1956, but in 1955, an anti-communist politician **Ngo Dinh Diem** seize power from the South to become the president of Southern Vietnam.
 
 After deadly battles, including the use of many cruel weapons such as drugs, the war ended with Northern Vietnam as the winner. Throughout the war, Southern Vietnam was supplied by America **to prevent a country falling Red**, known as the **Domino Theory**.
+
+<figure align = "center">
+    <img src = "https://d.newsweek.com/en/full/323202/04-17-nam-fall-01.jpg">
+    <figcaption><i>The last helicopter to leave Vietnam</i></figcaption>
+</figure>
 
 *Current source used: [Cold War (History)](https://www.history.com/topics/cold-war/cold-war-history), [Cold War (Wiki)](https://en.wikipedia.org/wiki/Cold_War), [Cold War (Britannica)](https://www.britannica.com/event/Cold-War/Toward-a-new-world-order), World History class.*
