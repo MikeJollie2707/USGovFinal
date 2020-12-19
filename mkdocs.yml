@@ -5,9 +5,12 @@ nav:
   - "World War II": ww2.md
   - "The Cold War": coldwar.md
   - "The Current War on Terror": post911.md
+  - "Work Cited": workcited.md
 
 extra_css:
   - ./stylesheets/extra.css
+repo_url: https://github.com/MikeJollie2707/USGovFinal
+repo_name: MikeJollie2707/USGovFinal
 
 theme:
   name: material
